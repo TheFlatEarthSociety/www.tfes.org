@@ -7,7 +7,7 @@ blaze:
 	rsync -r static/ public/
 
 publish: blaze
-	s3cmd -c ../.s3cfg sync --cf-invalidate -P public/ s3://www-tfes-org/
-	s3cmd -c ../.s3cfg sync --cf-invalidate -m text/css public/vectorlover-sjm.css s3://www-tfes-org/
+	s3cmd -c ../.s3cfg sync -P public/ s3://www-tfes-org/
+	s3cmd -c ../.s3cfg sync -m text/css public/vectorlover-sjm.css s3://www-tfes-org/
 
 .PHONY: all blaze publish

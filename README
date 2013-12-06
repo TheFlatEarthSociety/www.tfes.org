@@ -1,0 +1,19 @@
+This repository contains a standard BlazeBlogger directory hierarchy,
+except:
+
+  .blaze
+    This is a symlink to ., in order for BlazeBlogger data to appear
+    directly in the root of the repository.
+
+  Makefile
+    This contains convenience make targets for deployment.
+
+  log
+  public/
+    These are both in .gitignore. The former is a log written by
+    BlazeBlogger which is pointless when we have git commit history; the
+    latter is where the 'blaze' make target generates its content.
+
+  static/
+    This directory is for static content not managed by BlazeBlogger. The
+    'blaze' make target will copy it into public/ as is.

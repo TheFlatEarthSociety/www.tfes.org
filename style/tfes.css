@@ -24,7 +24,7 @@
 }
 body {
   background: #CCC url(images/bgfull.jpg) repeat-x;
-  background-position: 0px -100px;
+  background-position: center -100px;
   font: 12px/170% 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #6B6B6B;
   text-align: center;

@@ -1,3 +1,6 @@
+S3_CMD=s3cmd -c .s3cfg -P
+S3_BUCKET=www.tfes.org
+
 all: blaze
 
 blaze:
@@ -7,8 +10,8 @@ blaze:
 	rsync -r static/ public/
 
 publish: blaze
-	s3cmd -c .s3cfg sync --delete-removed -P public/ s3://www.tfes.org/
+	$(S3_CMD) sync --delete-removed public/ s3://$(S3_BUCKET)/
 	# Hax because s3cmd doesn't detect text/css MIME type.
-	s3cmd -c .s3cfg put -m text/css -P public/tfes.css s3://www.tfes.org/
+	$(S3_CMD) put -m text/css public/tfes.css s3://$(S3_BUCKET)/
 
 .PHONY: all blaze publish

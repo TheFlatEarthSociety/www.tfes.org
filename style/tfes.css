@@ -24,6 +24,7 @@
 }
 body {
   background: #CCC url(images/bgfull.jpg) repeat-x;
+  background-position: 0px -100px;
   font: 12px/170% 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #6B6B6B;
   text-align: center;
@@ -145,7 +146,7 @@ th {
   padding-right: 12px;
   color: #fff;
   text-align: left;
-  background: #ADD163;
+  background: #ADF163;
   border-width: 1px;
   border-style: solid;
   border-color: #C4DE8F #93C138 #93C138 #C4DE8F;
@@ -222,55 +223,11 @@ input.button {
 #header {
   position: relative;
   width: 952px;
-  height: 245px;
-  background: #8AB84B url(images/header.jpg) no-repeat;
+  height: 145px;
+  background: #8AB84B url(images/header.jpg) no-repeat bottom;
   color: #fff;
   padding: 0;
   margin: 0;
-}
-#header h1#logo-text a {
-  position: absolute;
-  margin: 0;
-  padding: 0;
-  font: bold 66px 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
-  letter-spacing: -5px;
-  text-decoration: none;
-  color: #332616;
-
-  /* Change the values of top and left to adjust the position of the logo: */
-  top: 75px;
-  left: 55px;
-}
-#header p#slogan {
-  position: absolute;
-  margin: 0; padding: 0;
-  font: bold 15px 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
-  color: #322815;
-  letter-spacing: -0.5px;
-
-  /* Change the values of top and left to adjust the position of the slogan: */
-  top: 148px;
-  left: 150px;
-}
-
-/* Top-menu: */
-#top-menu {
-  position: absolute;
-  margin: 0;
-  padding: 30px 15px 8px 15px;
-  background: #3A76A9 url(images/top-menu.gif) repeat-x;
-  font-family: 'Trebuchet MS', Arial, Sans-serif;
-  color: #FFF;
-  top: 0;
-  right: 70px;
-}
-#top-menu p {
-  margin: 0;
-  padding: 0;
-}
-#top-menu a {
-  font-weight: bold;
-  color: #fff;
 }
 
 /* Navigation: */
@@ -304,13 +261,13 @@ input.button {
 }
 #nav ul li a:hover,
 #nav ul li a:active {
-  color: #A9E7FA;
+  color: #CAD9F7;
 }
 #nav ul li#current {
   background: transparent url(images/left-tab.gif) no-repeat;
 }
 #nav ul li#current a {
-  color: #2C4B3D;
+  color: #2C4B5D;
   background: transparent url(images/right-tab.gif) no-repeat right top;
 }
 
@@ -328,7 +285,7 @@ input.button {
   padding: 10px 0 5px 5px;
   margin-left: 5px;
   letter-spacing: -2px;
-  border-bottom: 1px solid #E4F2C8;
+  border-bottom: 1px solid #C8B090;
 }
 #main h2 a {
   color: #51432f;
@@ -461,7 +418,7 @@ input.button {
   font-size: .95em;
   padding: 0 10px;
   margin-left: 2px;
-  color: #76A98D;
+  color: #887050;
 }
 .information a, .information a:visited {
   color: #333;

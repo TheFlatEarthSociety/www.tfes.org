@@ -3,9 +3,9 @@
   keywords = flat earth theory, flat earth society, flat, earth, society, rowbotham, zetetic, zeteticism, flatearth, cosmology, shape
   lang = en_GB
   posts = 10
-  style = vectorlover-sjm.css
+  style = tfes.css
   subtitle = The Earth is flat.
-  theme = vectorlover-sjm.html
+  theme = tfes.html
   title = The Flat Earth Society
 [color]
   list = false

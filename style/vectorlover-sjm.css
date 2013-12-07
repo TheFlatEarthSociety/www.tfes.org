@@ -23,7 +23,7 @@
   outline: 0;
 }
 body {
-  background: #CCC url(images/bg.gif) repeat-x;
+  background: #CCC url(images/bgfull.jpg) repeat-x;
   font: 12px/170% 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #6B6B6B;
   text-align: center;
@@ -280,7 +280,7 @@ input.button {
   margin: 0;
   width: 952px;
   height: 50px;
-  background: #988060 url(images/nav.gif) no-repeat;
+  background: #988060 url(images/menu.jpg) no-repeat;
 }
 #nav ul {
   float: left;
@@ -433,7 +433,7 @@ input.button {
   width: 952px;
   margin: 0;
   padding: 30px 0 25px 0;
-  background: #CCC url(images/footer-bottom.gif) no-repeat left top;
+  background: #CCC url(images/footer.gif) no-repeat left top;
   font-family: 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
   font-size: 0.95em;
   color: #777;

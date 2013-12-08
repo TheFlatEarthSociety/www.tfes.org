@@ -1,4 +1,4 @@
-S3_CMD=s3cmd -c .s3cfg --encoding=UTF-8 -P
+S3_CMD=s3cmd -c .s3cfg -P
 S3_BUCKET=www.tfes.org
 
 all: blaze

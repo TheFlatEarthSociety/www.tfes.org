@@ -517,3 +517,7 @@ ol.commentlist {
   height: 0;
   content: ".";
 }
+
+tt {
+  font-size: .8em;
+}

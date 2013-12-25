@@ -32,13 +32,13 @@ body {
 
 /* Android auto-fit workaround */
 div {
-  background-image: url();
+  background-image: url(images/blank.png);
 }
 h2 {
-  background-image: url();
+  background-image: url(images/blank.png);
 }
 p {
-  background-image: url();
+  background-image: url(images/blank.png);
   width: auto;
 }
 

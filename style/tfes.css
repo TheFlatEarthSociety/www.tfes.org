@@ -30,7 +30,7 @@ body {
   text-align: center;
 }
 
-/* Android auto-fit workaroud */
+/* Android auto-fit workaround */
 div {
   background-image: url();
 }

@@ -30,6 +30,18 @@ body {
   text-align: center;
 }
 
+/* Android auto-fit workaroud */
+div {
+  background-image: url();
+}
+h2 {
+  background-image: url();
+}
+p {
+  background-image: url();
+  width: auto;
+}
+
 /* Links: */
 a, a:visited {
   color: #2976A5;

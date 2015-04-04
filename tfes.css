@@ -325,9 +325,6 @@ input.button {
   color: #51432f;
   text-decoration: none;
 }
-#main ul li {
-  list-style-image: url(images/bullet.gif);
-}
 
 /* Library: */
 #lib {
@@ -357,7 +354,7 @@ input.button {
   color: #51432f;
   text-decoration: none;
 }
-#lib ul li {
+ul li {
   list-style-image: url(images/libbullet.png);
 }
 

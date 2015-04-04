@@ -87,7 +87,7 @@
 
       <h3>Recent forum discussions</h3>
       <?php
-            $topics = ssi_recentTopics($num_recent = 5, $exclude_boards = null, $include_boards = [3, 5, 6, 7, 8], $output_method="not echo plz");
+            $topics = ssi_recentTopics($num_recent = 5, $exclude_boards = null, $include_boards = [5, 6, 7, 8], $output_method="not echo plz");
       ?>
       <ul class="sidemenu">
       <?php

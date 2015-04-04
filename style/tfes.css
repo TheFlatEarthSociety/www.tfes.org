@@ -42,6 +42,12 @@ p {
   width: auto;
 }
 
+/* Articles: */
+article {
+  overflow-wrap: break-word;
+  text-align: justify;
+}
+
 /* Links: */
 a, a:visited {
   color: #2976A5;
@@ -105,11 +111,12 @@ dd {
   padding-left: 25px;
 }
 
-/* Images: */
-img {
+/* Embeds: */
+img, iframe, video, audio {
   background: #FAFAFA;
   border: 1px solid #E4E4E4;
   padding: 8px;
+  max-width: 100%;
 }
 img.float-right {
   margin: 5px 0px 10px 10px;
@@ -180,12 +187,12 @@ td {
 }
 
 /* Forms: */
-form {
+/* form {
   margin: 20px 10px;
   padding: 15px 25px 25px 20px;
   border: 1px solid #EEE8E1;
   background: #FAF7F5;
-}
+} */
 form p {
   border-bottom: 1px solid #ECE5DD;
   padding: 12px 0 5px 0;  margin: 0;
@@ -313,6 +320,7 @@ input.button {
   border-bottom: 1px solid #C8B090;
 }
 #main h2 a {
+  font-size: 0.8em;
   color: #51432f;
   text-decoration: none;
 }

@@ -6,11 +6,10 @@
   <meta http-equiv="Content-Language" content="en-gb">
   <meta name="Description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
   <meta name="viewport" content="width=960px">
-  <!-- keywords -->
-  <!-- generator -->
-  <!-- date -->
-  <!-- stylesheet -->
-  <!-- rss -->
+  <meta name="Keywords" content="flat earth theory, flat earth society, the flat earth society, flat, earth, society, rowbotham, zetetic, zeteticism, flatearth, cosmology, shape">
+  <meta name="Generator" content="BlazeBlogger 1.2.0">
+  <meta name="Date" content="Thu Feb 12 15:38:10 2015">
+  <link rel="stylesheet" href="./style/tfes.css" type="text/css">
   <meta property="og:site_name" content="The Flat Earth Society">
   <meta property="og:title" content="The Flat Earth Society">
   <meta property="og:description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
@@ -24,7 +23,7 @@
   <meta name="msapplication-wide310x150logo" content="images/logo_310x150.png">
   <meta name="msapplication-square310x310logo" content="images/logo_310x310.png">
   <link rel="shortcut icon" href="/favicon.ico">
-  <title><!-- page-title --></title>
+  <title>The Flat Earth Society</title>
 </head>
 
 <body>
@@ -41,12 +40,11 @@
 
 <div id="wrap">
   <div id="header">
-    <h1><img src="%root%images/header.jpg" alt="The Flat Earth Society"></h1>
+    <h1><img src="./images/header.jpg" alt="The Flat Earth Society"></h1>
   </div>
   <div id="nav">
     <ul>
-<li><a href="%home%">Home</a></li>
-<!-- pages -->
+<li><a href="http://www.tfes.org/">Home</a></li>
 <li><a href="http://forum.tfes.org/">Forum</a></li>
 <li><a href="http://wiki.tfes.org/">Wiki</a></li>
 <li><a href="http://library.tfes.org/">Library</a></li>
@@ -60,12 +58,24 @@
 
   <div id="content">
     <div id="main">
-<!-- content -->
+<?php
+      require("/srv/fes-forum/current/SSI.php");
+      $news = ssi_boardNews($board = 3, $limit = 5, $start, $length, $output_method="abc");
+      foreach($news as $post)
+      {
+            echo '<article><h2 class="post"><a href="' . $post['href'] . '" rel="permalink">' . $post['subject'] . '</a></h2>';
+            echo '<div class="information">
+   <span class="date">' . date("d M Y", $post['timestamp']) . '</span> by <span class="author">' . $post['poster']['link'] . '</span>
+</div>
+<p>' . $post['body'] . '</p><p>
+<small>' . $post['link'] . '</small></p></article>';
+      }
+?>
     </div>
 
     <div id="sidebar">
       <h3>About</h3>
-      <p><a href="%home%"><img src="%root%images/blurb.png" width="40" height="40" alt="avatar" class="float-left"></a>
+      <p><a href="http://www.tfes.org/"><img src="images/blurb.png" width="40" height="40" alt="" class="float-left"></a>
       This is the home of the world-famous Flat Earth Society, a place
       for free thinkers and the intellectual exchange of ideas. This
       website hosts information and serves as an archive for Flat Earth
@@ -75,38 +85,39 @@
       <h3>IRC chat</h3>
       <p>Join <tt>#theflatearthsociety</tt> on <tt>irc.tfes.org</tt> to chat to us in real time!</p>
 
-      <h3>Categories</h3>
+      <h3>Recent forum discussions</h3>
+      <?php
+            $topics = ssi_recentTopics($num_recent = 5, $exclude_boards = null, $include_boards = [3, 5, 6, 7, 8], $output_method="not echo plz");
+      ?>
       <ul class="sidemenu">
-<!-- tags -->
-      </ul>
-
-      <h3>Archive</h3>
-      <ul class="sidemenu">
-<!-- archive -->
+      <?php
+            foreach($topics as $topic)
+            {
+                  echo "<li>" . $topic['link'] . "<br><small>Last post by <strong>" . $topic['poster']['link'] . "</strong> on " . $topic['time'] . "</small></li>";
+            }
+      ?>
+<li>
+<form action="<?php echo ssi_quickSearch("wow") . "2" ?>" style="text-align:center" method="post">
+  <input name="search" type="search" placeholder="Search the forum..." style="width:200px">
+  <input type="submit" value="Go" style="width:35px">
+</form>
+</li>
       </ul>
     </div>
   </div>
 
   <div id="footer">
       <p>
-        Copyright &copy; <!-- year --> <!-- name -->, <a href="%root%copying.html">with exceptions</a> |
-        Some content available under a <a href="%root%copying.html">free licence</a>
+        Copyright &copy; <?php echo date("Y"); ?> The Flat Earth Society, <a href="copying.html">with exceptions</a> |
+        Some content available under a <a href="copying.html">free licence</a>
       </p>
 
       <p>
         &nbsp;&nbsp;&nbsp;&nbsp;
 
-        <a href="%root%index.rss">RSS</a>
-
-        &nbsp;&nbsp;&nbsp;&nbsp;
-
         <a href="http://validator.w3.org/check?uri=referer">HTML</a> |
         <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> |
         Based on design by <a href="http://www.styleshout.com/">styleshout</a>
-
-        &nbsp;&nbsp;&nbsp;&nbsp;
-
-        Powered by <a href="http://blaze.blackened.cz/">BlazeBlogger</a>
       </p>
   </div>
 </div>

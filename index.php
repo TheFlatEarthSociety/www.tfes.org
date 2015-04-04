@@ -103,6 +103,19 @@
 </form>
 </li>
       </ul>
+      
+      <h3>Status notices</h3>
+      <?php
+            $notice = ssi_boardNews($board = 22, $limit = 3, $start, $length, $output_method="abc");
+      ?>
+      <ul class="sidemenu">
+      <?php
+            foreach($notices as $notice)
+            {
+                  echo '<li><a href="' . $notice['href'] . '">' . $notice['subject'] . '</a>';
+            }
+      ?>
+      </ul>
     </div>
   </div>
 

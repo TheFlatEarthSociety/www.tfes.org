@@ -3,11 +3,9 @@
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="Description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
+  <meta name="description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
   <meta name="viewport" content="width=960px">
-  <meta name="Keywords" content="flat earth theory, flat earth society, the flat earth society, flat, earth, society, rowbotham, zetetic, zeteticism, flatearth, cosmology, shape">
-  <meta name="Generator" content="BlazeBlogger 1.2.0">
-  <meta name="Date" content="Thu Feb 12 15:38:10 2015">
+  <meta name="keywords" content="flat earth theory, flat earth society, the flat earth society, flat, earth, society, rowbotham, zetetic, zeteticism, flatearth, cosmology, shape">
   <link rel="stylesheet" href="tfes.css" type="text/css">
   <meta property="og:site_name" content="The Flat Earth Society">
   <meta property="og:title" content="The Flat Earth Society">

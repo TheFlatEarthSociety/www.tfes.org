@@ -40,7 +40,7 @@
 
 <div id="wrap">
   <div id="header">
-    <h1><img src="./images/header.jpg" alt="The Flat Earth Society"></h1>
+    <h1><img src="./images/header.png" alt="The Flat Earth Society"></h1>
   </div>
   <div id="nav">
     <ul>

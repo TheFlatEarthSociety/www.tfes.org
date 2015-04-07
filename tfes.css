@@ -50,7 +50,6 @@ article {
   overflow-wrap: break-word;
   text-align: justify;
   width: 540px;
-
 }
 
 /* Links: */
@@ -75,7 +74,7 @@ h1, h2, h3, h4 {
 h1 {
   font-size: 2.9em;
 }
-#header h1 {
+header h1 {
   padding: 0px;
 }
 h2 {
@@ -256,7 +255,7 @@ input.button {
   width: 952px;
   padding: 25px 0 60px 0;
 }
-#header {
+header {
   position: relative;
   width: 952px;
   height: 185px;
@@ -264,7 +263,7 @@ input.button {
   padding: 0;
   margin: 0;
 }
-#header img {
+header img {
   border-width: 0px;
   padding: 0px;
   position: absolute;
@@ -273,26 +272,26 @@ input.button {
 }
 
 /* Navigation: */
-#nav {
+nav {
   clear: both;
   padding: 0;
   margin: 0;
   width: 952px;
   height: 50px;
 }
-#nav ul {
+nav ul {
   float: left;
   list-style: none;
   margin: 2px 0 0 0;
   height: 45px;
   padding: 0 0 0 40px;
 }
-#nav ul li {
+nav ul li {
   float: left;
   margin: 0;
   padding: 0 0 0 10px;
 }
-#nav ul li a {
+nav ul li a {
   float: left;
   margin: 0;
   padding: 0 17px 0 0px;
@@ -301,16 +300,9 @@ input.button {
   font-weight: 300;
   text-decoration: none;
 }
-#nav ul li a:hover,
-#nav ul li a:active {
+nav ul li a:hover,
+nav ul li a:active {
   color: #000;
-}
-#nav ul li#current {
-  background: transparent url(images/left-tab.gif) no-repeat;
-}
-#nav ul li#current a {
-  color: #2C4B5D;
-  background: transparent url(images/right-tab.gif) no-repeat right top;
 }
 
 /* Main column: */
@@ -335,7 +327,7 @@ input.button {
   text-decoration: none;
 }
 #main ul li {
-  list-style-image: url(images/bullet.gif);
+  list-style-image: url(images/libbulet.png);
 }
 
 /* Library: */
@@ -427,39 +419,8 @@ input.button {
   border: none;
 }
 
-/* Header quick search: */
-#sidebar form#qsearch {
-  padding: 0;
-  margin: 20px 0 30px 10px;
-  border: none;
-  width: 270px; height: 33px;
-  background: #F2F0F0 url(images/qsearch.gif) no-repeat;
-}
-#sidebar form#qsearch p {
-  margin: 0; padding: 0;
-}
-#sidebar form#qsearch input {
-  float: left;
-  border: none;
-  background: transparent;
-  color: #B8B8B8;
-  margin: 0;
-}
-#sidebar form#qsearch .tbox {
-  margin: 5px 0 0 5px;
-  width: 220px;
-  display: inline;
-  font: 1em 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
-}
-#search form#qsearch .btn{
-  width: 24px; height: 24px;
-}
-#sidebar form#qsearch label {
-  display: none;
-}
-
 /* Footer: */
-#footer {
+footer {
   clear: both;
   width: 952px;
   margin: 0;
@@ -471,10 +432,10 @@ input.button {
   letter-spacing: .2px;
   border-top: 1px solid #ddd;
 }
-#footer p {
+footer p {
   padding:10px 0;
 }
-#footer a:hover {
+footer a:hover {
   color: #555;
   border-bottom: 1px dotted #555;
   text-decoration: none;

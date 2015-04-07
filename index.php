@@ -38,10 +38,9 @@
 </script>
 
 <div id="wrap">
-  <div id="header">
+  <header>
     <h1><img src="./images/header.png" alt="The Flat Earth Society"></h1>
-  </div>
-  <div id="nav">
+  <nav>
     <ul>
 <li><a href="http://www.tfes.org/">Home</a></li>
 <li><a href="http://forum.tfes.org/">Forum</a></li>
@@ -59,7 +58,8 @@
 </form>
 </li>
     </ul>
-  </div>
+  <nav>
+  </header>
 
   <div id="content">
     <div id="main">
@@ -116,7 +116,7 @@
     </div>
   </div>
 
-  <div id="footer">
+  <footer>
       <p>
         Copyright &copy; <?php echo date("Y"); ?> The Flat Earth Society, <a href="copying.html">with exceptions</a> |
         Some content available under a <a href="copying.html">free licence</a>
@@ -129,7 +129,7 @@
         <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> |
         Based on design by <a href="http://www.styleshout.com/">styleshout</a>
       </p>
-  </div>
+  </footer>
 </div>
 
 <div itemscope itemtype="http://schema.org/Organization">

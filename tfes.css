@@ -123,6 +123,9 @@ dd {
   padding: 8px;
   max-width: 100%;
 }
+video, audio {
+  max-width: 100%;
+}
 img.float-right {
   margin: 5px 0px 10px 10px;
 }

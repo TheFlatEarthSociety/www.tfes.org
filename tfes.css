@@ -598,10 +598,6 @@ tt {
 
 /* Cleaning up "About": */
 
-#sidebar img.float-left {
-    display: none;
-}
-
 #sidebar p { 
   text-align: justify;
 }

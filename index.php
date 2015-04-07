@@ -75,8 +75,7 @@
 
     <div id="sidebar">
       <h3>About</h3>
-      <p><a href="http://www.tfes.org/"><img src="images/blurb.png" width="40" height="40" alt="" class="float-left"></a>
-      This is the home of the world-famous Flat Earth Society, a place
+      <p>This is the home of the world-famous Flat Earth Society, a place
       for free thinkers and the intellectual exchange of ideas. This
       website hosts information and serves as an archive for Flat Earth
       Theory. It also offers an opportunity to discuss this with the Flat

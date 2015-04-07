@@ -38,6 +38,7 @@
 <div id="wrap">
   <header>
     <h1><img src="./images/header.png" alt="The Flat Earth Society"></h1>
+  </header>
   <nav>
     <ul>
 <li><a href="http://www.tfes.org/">Home</a></li>
@@ -56,8 +57,7 @@
 </form>
 </li>
     </ul>
-  <nav>
-  </header>
+  </nav>
 
   <div id="content">
     <div id="main">

@@ -11,7 +11,10 @@
    Theme Version:              1.0.1
    --------------------------------------------------------------------- */
 
+/* Font imports */
+@import url(http://fonts.googleapis.com/css?family=Oswald:300|Raleway|Lobster+Two);
 
+   
 /* ---------------------------------------------------------------------
    HTML ELEMENTS
    --------------------------------------------------------------------- */
@@ -295,7 +298,8 @@ input.button {
   margin: 0;
   padding: 0 17px 0 0px;
   color: #888;
-  font: 15px/45px 'Oswald Light';
+  font: 15px/45px 'Oswald';
+  font-weight: 300;
   text-decoration: none;
 }
 #nav ul li a:hover,
@@ -319,7 +323,8 @@ input.button {
   display: inline;
 }
 #main h2 {
-  font: 32px 'Oswald Light';
+  font: 32px 'Oswald';
+  font-weight: 300;
   color: #555;
   padding: 10px 0 0 5px;
   margin-left: 5px;
@@ -349,7 +354,8 @@ input.button {
   text-align: left;
 }
 #lib h2 {
-  font: 32px 'Oswald Light';
+  font: 32px 'Oswald';
+  font-weight: 300;
   color: #555;
   padding: 10px 0 0 5px;
   margin-left: 5px;

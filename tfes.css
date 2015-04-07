@@ -602,5 +602,6 @@ tt {
     display: none;
 }
 
+#sidebar p { 
   text-align: justify;
 }

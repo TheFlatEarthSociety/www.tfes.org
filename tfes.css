@@ -579,7 +579,8 @@ ol.commentlist {
   content: ".";
 }
 
-tt {
+.tt {
+  font-family: monospace;
   font-size: .8em;
 }
 

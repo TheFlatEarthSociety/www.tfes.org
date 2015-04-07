@@ -1,9 +1,8 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01+RDFa 1.1//EN" "http://www.w3.org/MarkUp/DTD/html401-rdfa11-1.dtd">
+<!DOCTYPE html>
 <?php require("/srv/fes-forum/current/SSI.php"); ?>
-<html>
+<html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="Content-Language" content="en-gb">
   <meta name="Description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
   <meta name="viewport" content="width=960px">
   <meta name="Keywords" content="flat earth theory, flat earth society, the flat earth society, flat, earth, society, rowbotham, zetetic, zeteticism, flatearth, cosmology, shape">
@@ -68,7 +67,7 @@
       $news = ssi_boardNews($board = 3, $limit = 5, $start, $length, $output_method="abc");
       foreach($news as $post)
       {
-            echo '<article><h2 class="post"><a href="' . $post['href'] . '" rel="permalink">' . $post['subject'] . '</a></h2>';
+            echo '<article><h2 class="post"><a href="' . $post['href'] . '" rel="bookmark">' . $post['subject'] . '</a></h2>';
             echo '<div class="information">
    <span class="date">' . date("d M Y", $post['timestamp']) . '</span> by <span class="author">' . $post['poster']['link'] . '</span>
 </div>
@@ -87,7 +86,7 @@
       Earth community on our forums.</p>
 
       <h3>IRC chat</h3>
-      <p>Join <tt>#theflatearthsociety</tt> on <tt>irc.tfes.org</tt> to chat to us in real time!</p>
+      <p>Join <span class="tt">#theflatearthsociety</span> on <span class="tt">irc.tfes.org</span> to chat to us in real time!</p>
 
       <h3>Recent forum discussions</h3>
       <?php

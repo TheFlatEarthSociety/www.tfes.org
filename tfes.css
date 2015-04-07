@@ -582,14 +582,10 @@ tt {
 
 /* Search bar stuff: */
 
-#sidebar form {
+#searchbar {
   position: absolute;
-  top: 190px;
-  left: calc(50% + 180px);
-}
-
-#sidebar ul:nth-child(6) li:last-of-type {
-  border: none;
+  right: 55px;
+  margin-top: 5px;
 }
 
 /* Cleaning up "About": */

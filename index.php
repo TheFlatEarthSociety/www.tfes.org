@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01+RDFa 1.1//EN" "http://www.w3.org/MarkUp/DTD/html401-rdfa11-1.dtd">
-
+<?php require("/srv/fes-forum/current/SSI.php"); ?>
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -53,13 +53,18 @@
 <li><a href="https://twitter.com/FlatEarthOrg" rel="publisher">Twitter</a></li>
 <li><a href="http://www.reddit.com/r/flatearthsociety/">Reddit</a></li>
 <li><a href="https://plus.google.com/+TfesOrgOfficial" rel="publisher">Google+</a></li>
+<li>
+<form id="searchbar" action="<?php echo ssi_quickSearch("wow") . "2" ?>" style="text-align:center" method="post">
+  <input name="search" type="search" placeholder="Search the forum..." style="width:200px">
+  <input type="submit" value="Go" style="width:35px">
+</form>
+</li>
     </ul>
   </div>
 
   <div id="content">
     <div id="main">
 <?php
-      require("/srv/fes-forum/current/SSI.php");
       $news = ssi_boardNews($board = 3, $limit = 5, $start, $length, $output_method="abc");
       foreach($news as $post)
       {
@@ -95,12 +100,6 @@
                   echo "<li>" . $topic['link'] . "<br><small>Last post by <strong>" . $topic['poster']['link'] . "</strong> on " . $topic['time'] . "</small></li>";
             }
       ?>
-<li>
-<form action="<?php echo ssi_quickSearch("wow") . "2" ?>" style="text-align:center" method="post">
-  <input name="search" type="search" placeholder="Search the forum..." style="width:200px">
-  <input type="submit" value="Go" style="width:35px">
-</form>
-</li>
       </ul>
 
       <h3>Status notices</h3>

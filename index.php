@@ -2,9 +2,8 @@
 <?php
   require("/srv/fes-forum/current/SSI.php");
   function sanitise_article($data) {
-    $data = trim($data,'<p>');
-    $data = trim($data,'</p>');
-    $data = trim($data,'<br>');
+    $data = preg_replace('{^(<br(\s*/)?>|\s+)+}i', '', $data);
+    $data = preg_replace('{(<br(\s*/)?>|\s+)+$}i', '', $data);
     $data = preg_replace('#(?:<br\s*/?>\s*?){2,}#','</p><p>',$data);
     $data = '<p>'.$data.'</p>';
     return $data;
@@ -79,7 +78,7 @@
     <header>
         <h2 class="post"><a href="' . $post['href'] . '" rel="bookmark">' . $post['subject'] . '</a></h2>
         <div class="information">
-             <time pubdate datetime="' . date("c", $post['timestamp']) . '">' . date("d M Y", $post['timestamp']) . '</time>
+             <time datetime="' . date("c", $post['timestamp']) . '">' . date("d M Y", $post['timestamp']) . '</time>
              by <span class="author">' . $post['poster']['link'] . '</span>
         </div>
     </header>

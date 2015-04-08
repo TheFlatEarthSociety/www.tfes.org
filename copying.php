@@ -17,18 +17,7 @@
       <p>
         This license grant does not apply to the CSS itself, which is
         derived from others&#39; work, so we do not have the legal right to
-        license it. The following images used by the CSS are also based
-        on the work of others and not covered by the licence:
-        <ul>
-          <li><tt>bullet.gif</tt></li>
-          <li><tt>footer.gif</tt></li>
-          <li><tt>left-tab.gif</tt></li>
-          <li><tt>libwrap.gif</tt></li>
-          <li><tt>qsearch.gif</tt></li>
-          <li><tt>quote.gif</tt></li>
-          <li><tt>right-tab.gif</tt></li>
-          <li><tt>wrap.gif</tt></li>
-        </ul>
+        license it.
       </p>
 
       <p>

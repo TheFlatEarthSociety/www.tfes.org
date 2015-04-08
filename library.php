@@ -1,63 +1,8 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01+RDFa 1.1//EN" "http://www.w3.org/MarkUp/DTD/html401-rdfa11-1.dtd">
-
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="Content-Language" content="en-gb">
-  <meta name="Description" content="The Flat Earth Library is an extensive collection of resources pertaining to the Flat Earth theory.">
-  <meta name="viewport" content="width=960px">
-  <meta name="Keywords" content="flat earth theory, flat earth society, the flat earth society, flat, earth, society, rowbotham, zetetic, zeteticism, library">
-  <link rel="stylesheet" href="tfes.css" type="text/css">
-  <meta property="og:site_name" content="The Flat Earth Society">
-  <meta property="og:title" content="The Flat Earth Society - Library">
-  <meta property="og:description" content="The Flat Earth Library is an extensive collection of resources pertaining to the Flat Earth theory.">
-  <meta property="og:image" content="http://www.tfes.org/images/logo.png">
-  <meta property="og:url" content="http://www.tfes.org/">
-  <meta property="og:locale" content="en_GB">
-  <meta name="application-name" content="The Flat Earth Society">
-  <meta name="msapplication-TileColor" content="#455a9e">
-  <meta name="msapplication-square70x70logo" content="images/logo_70x70.png">
-  <meta name="msapplication-square150x150logo" content="images/logo_150x150.png">
-  <meta name="msapplication-wide310x150logo" content="images/logo_310x150.png">
-  <meta name="msapplication-square310x310logo" content="images/logo_310x310.png">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <title>The Flat Earth Society - Library</title>
-</head>
-
-<body>
-
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-48900853-1', 'tfes.org');
-  ga('send', 'pageview');
-</script>
-
-<div id="libwrap">
-  <div id="header">
-    <h1><img src="images/header.jpg" alt="The Flat Earth Society"></h1>
-  </div>
-  <div id="nav">
-    <ul>
-<li><a href=".">Home</a></li>
-
-<li><a href="http://forum.tfes.org/">Forum</a></li>
-<li><a href="http://wiki.tfes.org/">Wiki</a></li>
-<li><a href="http://library.tfes.org/">Library</a></li>
-<li><a href="https://www.facebook.com/FlatSoc" rel="publisher">Facebook</a></li>
-<li><a href="https://twitter.com/FlatEarthOrg" rel="publisher">Twitter</a></li>
-<li><a href="http://www.reddit.com/r/flatearthsociety/">Reddit</a></li>
-<li><a href="https://plus.google.com/+TfesOrgOfficial" rel="publisher">Google+</a></li>
-    </ul>
-  </div>
-
+<?php include("header.php");?>
   <div id="content">
     <div id="lib">
 
-<h2 class="post"><a href="library.html" rel="permalink">The Flat Earth Library</a></h2>
+<h2 class="post"><a href="library.html" rel="bookmark">The Flat Earth Library</a></h2>
 
 <p>The Flat Earth Library is a comprehensive collection of Flat Earth literature, consolidated in one place for everyone's benefit.
 Its purpose is to preserve and immortalise the history of Flat Earth Theory for generations to come.</p>
@@ -178,30 +123,4 @@ Its purpose is to preserve and immortalise the history of Flat Earth Theory for 
     </div>
 
   </div>
-
-  <div id="footer">
-      <p>
-        Copyright &copy; 2014 The Flat Earth Society, <a href="copying.html">with exceptions</a> |
-        Some content available under a <a href="copying.html">free licence</a>
-      </p>
-
-      <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-
-        <a href="index.rss">RSS</a>
-
-        &nbsp;&nbsp;&nbsp;&nbsp;
-
-        <a href="http://validator.w3.org/check?uri=referer">HTML</a> |
-        <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> |
-        Based on design by <a href="http://www.styleshout.com/">styleshout</a>
-
-        &nbsp;&nbsp;&nbsp;&nbsp;
-
-        Powered by <a href="http://blaze.blackened.cz/">BlazeBlogger</a>
-      </p>
-  </div>
-</div>
-
-</body>
-</html>
+<?php include("footer.php"); ?>

@@ -2,7 +2,7 @@
   <div id="content">
     <div id="lib">
 
-<h2 class="post"><a href="library.html" rel="bookmark">The Flat Earth Library</a></h2>
+<h2 class="post"><a href="library.php" rel="bookmark">The Flat Earth Library</a></h2>
 
 <p>The Flat Earth Library is a comprehensive collection of Flat Earth literature, consolidated in one place for everyone's benefit.
 Its purpose is to preserve and immortalise the history of Flat Earth Theory for generations to come.</p>

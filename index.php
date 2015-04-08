@@ -36,7 +36,7 @@
 </script>
 
 <div id="wrap">
-  <header>
+  <header id="header">
     <h1><img src="./images/header.png" alt="The Flat Earth Society"></h1>
   </header>
   <nav>
@@ -65,12 +65,20 @@
       $news = ssi_boardNews($board = 3, $limit = 5, $start, $length, $output_method="abc");
       foreach($news as $post)
       {
-            echo '<article><h2 class="post"><a href="' . $post['href'] . '" rel="bookmark">' . $post['subject'] . '</a></h2>';
-            echo '<div class="information">
-   <span class="date">' . date("d M Y", $post['timestamp']) . '</span> by <span class="author">' . $post['poster']['link'] . '</span>
-</div>
-<p>' . $post['body'] . '</p><p>
-<small>' . $post['link'] . '</small></p></article>';
+            echo '<article>
+    <header>
+        <h2 class="post"><a href="' . $post['href'] . '" rel="bookmark">' . $post['subject'] . '</a></h2>
+        <div class="information">
+             <time pubdate datetime="' . date("c", $post['timestamp']) . '">' . date("d M Y", $post['timestamp']) . '</time>
+             by <span class="author">' . $post['poster']['link'] . '</span>
+        </div>
+    </header>
+    <p>' . $post['body'] . '
+    </p>
+    <footer>
+        <small>' . $post['link'] . '</small>
+    </footer>
+</article>';
       }
 ?>
     </div>
@@ -114,7 +122,7 @@
     </div>
   </div>
 
-  <footer>
+  <footer id="footer">
       <p>
         Copyright &copy; <?php echo date("Y"); ?> The Flat Earth Society, <a href="copying.html">with exceptions</a> |
         Some content available under a <a href="copying.html">free licence</a>

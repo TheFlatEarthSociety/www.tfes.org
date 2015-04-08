@@ -1,5 +1,15 @@
 <!DOCTYPE html>
-<?php require("/srv/fes-forum/current/SSI.php"); ?>
+<?php
+  require("/srv/fes-forum/current/SSI.php");
+  function sanitise_article($data) {
+    $data = trim($data,'<p>');
+    $data = trim($data,'</p>');
+    $data = trim($data,'<br>');
+    $data = preg_replace('#(?:<br\s*/?>\s*?){2,}#','</p><p>',$data);
+    $data = '<p>'.$data.'</p>';
+    return $data;
+  }
+?>
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -73,8 +83,7 @@
              by <span class="author">' . $post['poster']['link'] . '</span>
         </div>
     </header>
-    <p>' . $post['body'] . '
-    </p>
+    ' . sanitise_article($post['body']) . '
     <footer>
         <small>' . $post['link'] . '</small>
     </footer>

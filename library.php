@@ -46,36 +46,36 @@ Its purpose is to preserve and immortalise the history of Flat Earth Theory for 
   <li><a href="http://library.tfes.org/library/Samuel_Shenton_Correspondence_(Outgoing)_-_Volume_01.pdf">Samuel Shenton Outgoing Correspondence (Volume 01)</a> [PDF]</li>
   <li><a href="http://library.tfes.org/library/Samuel_Shenton_Correspondence_(Outgoing)_-_Volume_02.pdf">Samuel Shenton Outgoing Correspondence (Volume 02)</a> [PDF]</li>
   <li><a href="http://library.tfes.org/library/Samuel_Shenton_Correspondence_(Outgoing)_-_Volume_03.pdf">Samuel Shenton Outgoing Correspondence (Volume 03)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Earth - Monthly Magazine 47-48.pdf">The Earth - A Monthly Magazine of Sense &amp; Science (No. 47 &amp; 48)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Earth - Monthly Magazine 49-50.pdf">The Earth - A Monthly Magazine of Sense &amp; Science (No. 49 &amp; 50)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Earth - Monthly Magazine 51.pdf">The Earth - A Monthly Magazine of Sense &amp; Science (No. 51)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Earth - Monthly Magazine Vol VI 72-73.pdf">The Earth - A Monthly Magazine of Sense &amp; Science (No. 72 &amp; 73)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Sea-Earth Globe.pdf">The Sea-Earth Globe and and its Monstrous Hypothetical Motions, (Zetetes, 1918)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Truth - The Earth Is Flat.pdf">Truth - The Earth is Flat, S.G. Fowler </a>[PDF]</li>
+  <li><a href="http://library.tfes.org/library/Earth%20-%20Monthly%20Magazine%2047-48.pdf">The Earth - A Monthly Magazine of Sense &amp; Science (No. 47 &amp; 48)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Earth%20-%20Monthly%20Magazine%2049-50.pdf">The Earth - A Monthly Magazine of Sense &amp; Science (No. 49 &amp; 50)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Earth%20-%20Monthly%20Magazine%2051.pdf">The Earth - A Monthly Magazine of Sense &amp; Science (No. 51)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Earth%20-%20Monthly%20Magazine%20Vol%20VI%2072-73.pdf">The Earth - A Monthly Magazine of Sense &amp; Science (No. 72 &amp; 73)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Sea-Earth%20Globe.pdf">The Sea-Earth Globe and and its Monstrous Hypothetical Motions, (Zetetes, 1918)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Truth%20-%20The%20Earth%20Is%20Flat.pdf">Truth - The Earth is Flat, S.G. Fowler </a>[PDF]</li>
 </ul>
 
 <h4>"Flat or Spherical", Lady Blount, 1905</h4>
 <ul>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 00 - Intro.pdf">00 - Intro</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 01 - The Romance of Science.pdf">01 - The Romance of Science</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 02 - Mr. Blatchford's Great Mistake.pdf">02 - Mr. Blatchford's Great Mistake</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 03 - Science and Religion.pdf">03 - Science and Religion</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 04 - Roger's Reasons.pdf">04 - Roger's Reasons</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 05 - Creation's Chronology.pdf">05 - Creation's Chronology</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 06 - Celestial Phenomena &amp; Strange Proofs of Globularity.pdf">06 - Celestial Phenomena &amp; Strange Proofs of Globularity</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 07 - Earth.pdf">07 - Earth</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 08 - Collapse of the Globular Theory.pdf">08 - Collapse of the Globular Theory</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 09 - Eclipses &amp; Circumnavigation.pdf">09 - Eclipses &amp; Circumnavigation</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 10 - Sabbath of Creation (No. 10).pdf">10 - Sabbath of Creation (No. 10)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 11 - Sabbath of Creation (No. 12).pdf">11 - Sabbath of Creation (No. 12)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 12 - Sabbath of Creation (No. 13).pdf">12 - Sabbath of Creation (No. 13)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 13 - Misc.pdf">13 - Miscellaneous</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 14 - Our Father's House.pdf">14 - Our Father's House</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 15 - Sectarianism not of God.pdf">15 - Sectarianism not of God</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 16 - The Third Angel's Message.pdf">16 - The Third Angel's Message</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 17 - The Testimonies of Mrs. White.pdf">17 - The Testimonies of Mrs. White</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 18 - Misc.pdf">18 - Miscellaneous</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Flat or Spherical - 19 - Theoretical Astronomy (Part 1).pdf">19 - Theoretical Astronomy (Part 1)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2000%20-%20Intro.pdf">00 - Intro</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2001%20-%20The%20Romance%20of%20Science.pdf">01 - The Romance of Science</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2002%20-%20Mr.%20Blatchford's%20Great%20Mistake.pdf">02 - Mr. Blatchford's Great Mistake</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2003%20-%20Science%20and%20Religion.pdf">03 - Science and Religion</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2004%20-%20Roger's%20Reasons.pdf">04 - Roger's Reasons</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2005%20-%20Creation's%20Chronology.pdf">05 - Creation's Chronology</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2006%20-%20Celestial%20Phenomena%20%26%20Strange%20Proofs%20of%20Globularity.pdf">06 - Celestial Phenomena &amp; Strange Proofs of Globularity</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2007%20-%20Earth.pdf">07 - Earth</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2008%20-%20Collapse%20of%20the%20Globular%20Theory.pdf">08 - Collapse of the Globular Theory</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2009%20-%20Eclipses%20%26%20Circumnavigation.pdf">09 - Eclipses &amp; Circumnavigation</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2010%20-%20Sabbath%20of%20Creation%20(No.%2010).pdf">10 - Sabbath of Creation (No. 10)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2011%20-%20Sabbath%20of%20Creation%20(No.%2012).pdf">11 - Sabbath of Creation (No. 12)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2012%20-%20Sabbath%20of%20Creation%20(No.%2013).pdf">12 - Sabbath of Creation (No. 13)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2013%20-%20Misc.pdf">13 - Miscellaneous</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2014%20-%20Our%20Father's%20House.pdf">14 - Our Father's House</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2015%20-%20Sectarianism%20not%20of%20God.pdf">15 - Sectarianism not of God</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2016%20-%20The%20Third%20Angel's%20Message.pdf">16 - The Third Angel's Message</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2017%20-%20The%20Testimonies%20of%20Mrs.%20White.pdf">17 - The Testimonies of Mrs. White</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2018%20-%20Misc.pdf">18 - Miscellaneous</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Flat%20or%20Spherical%20-%2019%20-%20Theoretical%20Astronomy%20(Part%201).pdf">19 - Theoretical Astronomy (Part 1)</a> [PDF]</li>
 </ul>
 
 <h4>19th Century Writings (mostly Samuel Rowbotham and the Universal Zetetic Society)</h4>
@@ -84,7 +84,7 @@ Its purpose is to preserve and immortalise the history of Flat Earth Theory for 
   <li><a href="http://library.tfes.org/library/samuel_rowbotham_-_earth_not_a_globe.pdf">"Earth Not A Globe! An Experimental Inquiry into the True Figure of the Earth", Samuel 'Parallax' Rowbotham, 1865</a> [PDF]</li>
   <li><a href="http://library.tfes.org/library/The_Zetetic_(Volume_1_Number_1)_July_1872.pdf">The Zetetic - A Monthly Journal of Cosmographical Science (Vol. 1, No. 1, July 1872), Edited by B. Chas. Brough.</a> [PDF]</li>
   <li><a href="http://library.tfes.org/library/The_Zetetic_(Volume_2_Number_8_and_9)_October_and_November_1873.pdf">The Zetetic - A Monthly Journal of Cosmographical Science (Vol. 2, No. 8-9, October and November 1873), Edited by Samuel 'Parallax' Rowbotham</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Chart_&amp;_Compass.pdf">Chart &amp; Compass, Sextant &amp; Sun-dial, Latitudes &amp; Longitudes, Plumbline &amp; Pendulum, Globe or Plane?, Published by the Zetetic Society</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Chart_%26_Compass.pdf">Chart &amp; Compass, Sextant &amp; Sun-dial, Latitudes &amp; Longitudes, Plumbline &amp; Pendulum, Globe or Plane?, Published by the Zetetic Society</a> [PDF]</li>
   <li><a href="http://library.tfes.org/library/Earth_Life_(Volume_1_Number_1)_March_1873.pdf">Earth-Life: A Monthly Journal and Record (Vol. 1, No. 1, March 1873), Edited by Samuel 'Parallax' Rowbotham</a> [PDF]</li>
   <li><a href="http://library.tfes.org/library/The_Earth_Not_A_Globe_Review_(Number_1_January_1893).pdf">The Earth Not A Globe Review (Vol. 1, No. 1, January 1893), The Universal Zetetic Society</a> [PDF]</li>
   <li><a href="http://library.tfes.org/library/The_Earth_Not_A_Globe_Review_Covers.pdf">The Earth Not A Globe Review (Collection of Covers), The Universal Zetetic Society</a> [PDF]</li>
@@ -100,12 +100,12 @@ Its purpose is to preserve and immortalise the history of Flat Earth Theory for 
 
 <h4>The Ellis Hillman Archives</h4>
 <ul>
-  <li><a href="http://library.tfes.org/library/Plane Truth 1 (web).pdf">"The Plane Truth" pamphlet with accompanying letter to Ellis Hillman, Samuel Shenton, 1967 (hand-annotated by Samuel Shenton)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Blunder or Crime (web).pdf">"Blunder or Crime", Channel, 1962 (hand-annotated by Samuel Shenton)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Letter from Shenton to Hillman 1963 (web).pdf">Letter from Samuel Shenton to Ellis Hillman, October 8th, 1963 (signed, with portions hand-written by Samuel Shenton)</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Letter to Ellis Hillman from Norway.pdf">Letter from Fritz Kolberg to Ellis Hillman re: IFERS, October 24th, 1982</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/GlobeSceptics (web).pdf">"GlobeSceptics: The Stationary Concentric Convex Theory of the Earth", ACP Scott &amp; SA Cook</a> [PDF]</li>
-  <li><a href="http://library.tfes.org/library/Oxford Polytechnic Cartography Society Flyer.jpg">Flyer from Oxford Cartography Society Guest Lecture, "The Flat Earthers", June 19th, 19xx</a> [JPG]</li>
+  <li><a href="http://library.tfes.org/library/Plane%20Truth%201%20(web).pdf">"The Plane Truth" pamphlet with accompanying letter to Ellis Hillman, Samuel Shenton, 1967 (hand-annotated by Samuel Shenton)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Blunder%20or%20Crime%20(web).pdf">"Blunder or Crime", Channel, 1962 (hand-annotated by Samuel Shenton)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Letter%20from%20Shenton%20to%20Hillman%201963%20(web).pdf">Letter from Samuel Shenton to Ellis Hillman, October 8th, 1963 (signed, with portions hand-written by Samuel Shenton)</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Letter%20to%20Ellis%20Hillman%20from%20Norway.pdf">Letter from Fritz Kolberg to Ellis Hillman re: IFERS, October 24th, 1982</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/GlobeSceptics%20(web).pdf">"GlobeSceptics: The Stationary Concentric Convex Theory of the Earth", ACP Scott &amp; SA Cook</a> [PDF]</li>
+  <li><a href="http://library.tfes.org/library/Oxford%20Polytechnic%20Cartography%20Society%20Flyer.jpg">Flyer from Oxford Cartography Society Guest Lecture, "The Flat Earthers", June 19th, 19xx</a> [JPG]</li>
   <li><a href="http://library.tfes.org/library/ULU-Xmas-Debate-89-90.jpg">Flyer from University of London Union (ULU) Debating Society "XMAS DEBATE", 1989</a> [JPG]</li>
 </ul>
 

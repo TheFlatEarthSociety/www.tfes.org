@@ -1,7 +1,7 @@
 <?php include("header.php");?>
   <div id="content">
     <div id="lib">
-      <h2 class="post"><a href="library.html" rel="permalink">Terms and conditions for reuse of website content</a></h2>
+      <h2 class="post">Terms and conditions for reuse of website content</h2>
 
       <p>
         All blog posts and webpages available by HTTP from

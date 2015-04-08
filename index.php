@@ -1,6 +1,5 @@
 <?php include("header.php"); ?>
 <?php
-  require("/srv/fes-forum/current/SSI.php");
   function sanitise_article($data) {
     $data = preg_replace('{^(<br(\s*/)?>|\s+)+}i', '', $data);
     $data = preg_replace('{(<br(\s*/)?>|\s+)+$}i', '', $data);

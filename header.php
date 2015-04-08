@@ -1,3 +1,4 @@
+<?php require("/srv/fes-forum/current/SSI.php");?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

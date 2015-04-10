@@ -297,7 +297,8 @@ nav ul li {
   margin: 0;
   padding: 0 0 0 10px;
 }
-nav ul li a {
+nav ul li a,
+nav ul li a:visited {
   float: left;
   margin: 0;
   padding: 0 17px 0 0px;
@@ -309,6 +310,7 @@ nav ul li a {
 nav ul li a:hover,
 nav ul li a:active {
   color: #000;
+  text-decoration: none;
 }
 
 /* Main column: */
@@ -371,7 +373,7 @@ nav ul li a:active {
   float: right;
   width: 285px;
   padding: 0;
-  margin: 0 45px 0 0;
+  margin: 7px 45px 0 0;
   display: inline;
 
 }
@@ -380,7 +382,7 @@ nav ul li a:active {
   font: 24px 'Lobster Two';
   text-transform: none;
   padding: 5px 0px 0px 0px;
-  margin: 10px 10px 5px 10px;
+  margin: 10px 5px 5px 5px;
   border-bottom: 3px double #ddd;
   text-align: center;
 }
@@ -394,7 +396,7 @@ nav ul li a:active {
 #sidebar .sidemenu li {
   list-style: none;
   margin: 0;
-  padding: 8px 10px;
+  padding: 8px 0px;
   border-bottom: 1px solid #E8E8E8;
 }
 * html body #sidebar .sidemenu li {
@@ -423,6 +425,10 @@ nav ul li a:active {
 }
 #sidebar .sidemenu ul li {
   border: none;
+}
+
+footer {
+  padding-left: 10px;
 }
 
 /* Footer: */
@@ -555,12 +561,15 @@ ol.commentlist {
 
 #searchbar {
   position: absolute;
-  right: 55px;
+  right: 50px;
   margin-top: 5px;
+  z-index: 999;
 }
 
 /* Cleaning up "About": */
 
 #sidebar p { 
   text-align: justify;
-}
+  padding-left: 5px;
+  padding-right: 5px;
+}   

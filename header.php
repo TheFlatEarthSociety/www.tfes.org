@@ -50,11 +50,9 @@
 <li><a href="https://twitter.com/FlatEarthOrg" rel="publisher">Twitter</a></li>
 <li><a href="http://www.reddit.com/r/flatearthsociety/">Reddit</a></li>
 <li><a href="https://plus.google.com/+TfesOrgOfficial" rel="publisher">Google+</a></li>
-<li>
+    </ul>
 <form id="searchbar" action="<?php echo ssi_quickSearch("wow") . "2" ?>" style="text-align:center" method="post">
   <input name="search" type="search" placeholder="Search the forum..." style="width:200px">
   <input type="submit" value="Go" style="width:35px">
 </form>
-</li>
-    </ul>
   </nav>

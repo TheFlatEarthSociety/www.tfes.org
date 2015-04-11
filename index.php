@@ -45,7 +45,7 @@
       in real time!</p>
       <p>You can also join the chat by pointing an IRC client at
       <span class="tt">#theflatearthsociety</span> on
-      <span class="tt">irc.tfes.org</span></a>.</p>
+      <span class="tt">irc.tfes.org</span>.</p>
 
       <h3>Recent forum discussions</h3>
       <?php

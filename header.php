@@ -44,7 +44,7 @@
 <li><a href="http://www.tfes.org/">Home</a></li>
 <li><a href="http://forum.tfes.org/">Forum</a></li>
 <li><a href="http://wiki.tfes.org/">Wiki</a></li>
-<li><a href="http://library.tfes.org/">Library</a></li>
+<li><a href="http://www.tfes.org/library.php">Library</a></li>
 <li><a href="http://www.cafepress.com/theflatearthsociety">Store</a></li>
 <li><a href="https://www.facebook.com/FlatSoc" rel="publisher">Facebook</a></li>
 <li><a href="https://twitter.com/FlatEarthOrg" rel="publisher">Twitter</a></li>

@@ -40,8 +40,12 @@
       Theory. It also offers an opportunity to discuss this with the Flat
       Earth community on our forums.</p>
 
-      <h3>IRC chat</h3>
-      <p>Join <span class="tt">#theflatearthsociety</span> on <span class="tt">irc.tfes.org</span> to chat to us in real time!</p>
+      <h3>Live chat</h3>
+      <p>Join our <a href="https://irc.tfes.org/">web chat</a> to chat to us
+      in real time!</p>
+      <p>You can also join the chat by pointing an IRC client at
+      <span class="tt">#theflatearthsociety</span> on
+      <span class="tt">irc.tfes.org</span></a>.</p>
 
       <h3>Recent forum discussions</h3>
       <?php

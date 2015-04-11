@@ -572,4 +572,6 @@ ol.commentlist {
   text-align: justify;
   padding-left: 5px;
   padding-right: 5px;
-}   
+  padding-top: 7px;
+  padding-bottom: 7px;
+}

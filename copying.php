@@ -10,7 +10,7 @@
         exceptions) referenced by CSS used on such pages are Copyright
         &copy; 2013-<?php echo date("Y"); ?> The Flat Earth Society and may be modified and/or
         distributed under the terms of the <a
-        href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+        href="//creativecommons.org/licenses/by-sa/4.0/">Creative
         Commons Attribution-ShareAlike 4.0 International License</a>.
       </p>
 

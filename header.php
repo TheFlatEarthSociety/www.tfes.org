@@ -10,8 +10,8 @@
   <meta property="og:site_name" content="The Flat Earth Society">
   <meta property="og:title" content="The Flat Earth Society">
   <meta property="og:description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
-  <meta property="og:image" content="http://www.tfes.org/images/logo.png">
-  <meta property="og:url" content="http://www.tfes.org/">
+  <meta property="og:image" content="//www.tfes.org/images/logo.png">
+  <meta property="og:url" content="//www.tfes.org/">
   <meta property="og:locale" content="en_GB">
   <meta name="application-name" content="The Flat Earth Society">
   <meta name="msapplication-TileColor" content="#455a9e">
@@ -41,10 +41,10 @@
   </header>
   <nav>
     <ul>
-<li><a href="http://www.tfes.org/">Home</a></li>
-<li><a href="http://forum.tfes.org/">Forum</a></li>
-<li><a href="http://wiki.tfes.org/">Wiki</a></li>
-<li><a href="http://www.tfes.org/library.php">Library</a></li>
+<li><a href="//www.tfes.org/">Home</a></li>
+<li><a href="//forum.tfes.org/">Forum</a></li>
+<li><a href="//wiki.tfes.org/">Wiki</a></li>
+<li><a href="//www.tfes.org/library.php">Library</a></li>
 <li><a href="http://www.cafepress.com/theflatearthsociety">Store</a></li>
 <li><a href="https://www.facebook.com/FlatSoc" rel="publisher">Facebook</a></li>
 <li><a href="https://twitter.com/FlatEarthOrg" rel="publisher">Twitter</a></li>

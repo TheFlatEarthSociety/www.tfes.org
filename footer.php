@@ -7,8 +7,8 @@
       <p>
         &nbsp;&nbsp;&nbsp;&nbsp;
 
-        <a href="http://validator.w3.org/check?uri=referer">HTML</a> |
-        <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> |
+        <a href="//validator.w3.org/check?uri=referer">HTML</a> |
+        <a href="//jigsaw.w3.org/css-validator/check/referer">CSS</a> |
         Based on design by <a href="http://www.styleshout.com/">styleshout</a>
       </p>
   </footer>

@@ -37,7 +37,11 @@
 
 <div id="wrap">
   <header id="header">
-    <h1><img src="./images/header.png" alt="The Flat Earth Society"></h1>
+	<video width=952 height=185 autoplay loop muted>
+		<source src="./header.webm" type="video/webm">
+		<source src="./header.mp4" type="video/mp4">
+		<h1><img src="./The Flat Earth Society_files/header.png" alt="The Flat Earth Society"></h1>
+	</video>
   </header>
   <nav>
     <ul>

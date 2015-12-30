@@ -277,6 +277,18 @@ input.button {
   overflow: hidden;
 }
 
+#logo_img {
+  position: absolute;
+  top: 44px;
+  left: 55px;
+}
+
+#logo_txt {
+  left: 375px;
+  position: absolute;
+  top: 44px;
+}
+
 /* Navigation: */
 nav {
   clear: both;

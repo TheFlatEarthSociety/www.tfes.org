@@ -37,11 +37,13 @@
 
 <div id="wrap">
   <header id="header">
-	<video width=952 height=186 autoplay loop muted>
-		<source src="./videos/header.webm" type="video/webm">
-		<source src="./videos/header.mp4" type="video/mp4">
-		<h1><img src="./images/header.png" alt="The Flat Earth Society"></h1>
-	</video>
+    <img id="logo_img" src="./images/logo_white.png" alt="">
+    <img id="logo_txt" src="./images/logo_text.png" alt="The Flat Earth Society">
+    <video width=952 height=186 poster="./images/header.png" autoplay loop muted>
+      <source src="./videos/header.mp4" type="video/mp4">
+      <source src="./videos/header.webm" type="video/webm">
+      <h1><img src="./images/header.png" alt=""></h1>
+    </video>
   </header>
   <nav>
     <ul>

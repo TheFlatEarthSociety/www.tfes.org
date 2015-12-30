@@ -40,7 +40,7 @@
 	<video width=952 height=186 autoplay loop muted>
 		<source src="./videos/header.webm" type="video/webm">
 		<source src="./videos/header.mp4" type="video/mp4">
-		<h1><img src="./The Flat Earth Society_files/header.png" alt="The Flat Earth Society"></h1>
+		<h1><img src="./images/header.png" alt="The Flat Earth Society"></h1>
 	</video>
   </header>
   <nav>

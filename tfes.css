@@ -12,7 +12,7 @@
    --------------------------------------------------------------------- */
 
 /* Font imports */
-@import url(//fonts.googleapis.com/css?family=Oswald:300|Raleway|Lobster+Two);
+@import url(//fonts.googleapis.com/css?family=Oswald:300|Open+Sans:400,400italic,600,600italic|Lobster+Two);
 
    
 /* ---------------------------------------------------------------------
@@ -27,8 +27,8 @@
 }
 body {
   background: #fff url('./images/bg.png') repeat-x;
-  font: 12px/170% 'Raleway', Geneva, Verdana, sans-serif;
-  font-weight: normal;
+  font: 12px/170% 'Open Sans', Geneva, Verdana, sans-serif;
+  font-weight: 400;
   color: #000000;
   text-align: center;
 }
@@ -99,6 +99,15 @@ p {
 }
 #main p, #sidebar p {
   font-size: 1.1em;
+}
+strong {
+  font-weight: 600;
+}
+article hr {
+  margin: 10px 0;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
 }
 
 /* Lists: */
@@ -217,8 +226,8 @@ label {
   color: #A7743B;
 }
 input, select, textarea {
-  font-family: 'Raleway';
-  font-weight: normal;
+  font-family: 'Open Sans';
+  font-weight: 400;
   margin: 5px 0;
   padding: 5px;
   color: #6A6969;

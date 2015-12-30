@@ -37,6 +37,7 @@
 
 <div id="wrap">
   <header id="header">
+    <img width=952 height=186 src="./images/og.png" alt="">
     <img id="logo_img" src="./images/logo_white.png" alt="">
     <img id="logo_txt" src="./images/logo_text.png" alt="The Flat Earth Society">
     <video width=952 height=186 poster="./images/header.png" autoplay loop muted>

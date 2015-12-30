@@ -40,13 +40,6 @@
       Theory. It also offers an opportunity to discuss this with the Flat
       Earth community on our forums.</p>
 
-      <h3>Live chat</h3>
-      <p>Join our <a href="https://irc.tfes.org/">web chat</a> to chat to us
-      in real time!</p>
-      <p>You can also join the chat by pointing an IRC client at
-      <span class="tt">#theflatearthsociety</span> on
-      <span class="tt">irc.tfes.org</span>.</p>
-
       <h3>Recent forum discussions</h3>
       <?php
             $topics = ssi_recentTopics($num_recent = 5, $exclude_boards = null, $include_boards = [5, 6, 7, 8], $output_method="not echo plz");

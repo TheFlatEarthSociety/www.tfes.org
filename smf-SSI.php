@@ -1,0 +1,1 @@
+../../shared/smf-SSI.php

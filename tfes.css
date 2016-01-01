@@ -396,7 +396,7 @@ input#button:hover {
 }
 @media (max-width: 500px) {
   #content {
-    padding-top: 90px;
+    padding-top: 75px;
   }
 }
 #header {
@@ -409,7 +409,7 @@ input#button:hover {
 }
 @media (max-width: 500px) {
   #header {
-    height: 100px;
+    height: 62px;
     max-width: 100%;
     width: 100%;
   }
@@ -443,24 +443,18 @@ input#button:hover {
 
 @media (max-width: 500px) {
   #logo_img {
-    left: 25px;
-    top: 20px;
-    width: 75px;
-    height: 75px;
+    left: 20px;
+    top: 15px;
+    width: 60px;
+    height: 60px;
   }
   #logo_txt {
-    top: 20px;
-    width: 150px;
-    height: 75px;
+    top: 15px;
+    width: 120px;
+    height: 60px;
   }
 }
 
-@media (max-width: 370px) {
-  #logo_txt {
-    left: 110px;
-    transform: translate(0, 0);
-  }
-}
 
 /* Navigation: */
 nav {
@@ -498,7 +492,7 @@ nav ul li a:active {
 @media (max-width: 500px) {
   nav ul {
     position: absolute;
-    top: 452px;
+    top: 414px;
     width: 100%;
     display: flex;
     justify-content: center;

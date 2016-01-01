@@ -361,7 +361,7 @@ input#button:hover {
     margin-top: -23px;
     width: 50%;
   }
-  #nav-below ul li #link-description::after {
+  #nav-below ul li .link-description::after {
     content: "";
     font-family: "FontAwesome";
     font-size: 21px;
@@ -371,10 +371,10 @@ input#button:hover {
     right: 35px;
     margin-top: -14px;
   }
-  #nav-below ul li #link-description:hover::after {
+  #nav-below ul li .link-description:hover::after {
     color: #a0b8c6;
   }
-  #nav-below ul li #link-description:hover p {
+  #nav-below ul li .link-description:hover p {
     display: inline;
   }
 }

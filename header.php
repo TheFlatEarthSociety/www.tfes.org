@@ -48,7 +48,7 @@
 			</ul>
 			<form id="searchbar" action="<?php echo ssi_quickSearch("wow") . "2" ?>" style="text-align:center" method="post">
 				<input id="bar" name="search" type="search" placeholder="Search the forum..." style="width:200px">
-				<input id="button" type="submit" value="">
+				<input id="button" type="submit" value="&#xf002;">
 			</form>
 		</nav>
 		<div id="main-col-inner">
@@ -59,13 +59,13 @@
 			<div id="nav-below">
 				<ul>
 					<li><a href="//forum.tfes.org/"><i class="fa fa-comments fa-fw"></i><span>Forum</span></a><br>
-					<div id="link-description"><p>Engage in conversation with our community about Flat Earth theory - or anything else you want!</p></div></li>
+					<div class="link-description" id="1"><p>Engage in conversation with our community about Flat Earth theory - or anything else you want!</p></div></li>
 					<li><a href="//wiki.tfes.org/"><i class="fa fa-graduation-cap fa-fw"></i><span>Wiki</span></a><br>
-					<div id="link-description"><p>An information repository for all things related to Flat Earth theory. A great entry point for newcomers.</p></div></li>
+					<div class="link-description" id="2"><p>An information repository for all things related to Flat Earth theory. A great entry point for newcomers.</p></div></li>
 					<li><a href="//www.blanko.tfes.org/library.php"><i class="fa fa-book fa-fw"></i><span>Library</span></a><br>
-					<div id="link-description"><p>A comprehensive collection of Flat Earth literature, consolidated in one place for everyone's benefit.</p></div></li>
+					<div class="link-description" id="3"><p>A comprehensive collection of Flat Earth literature, consolidated in one place for everyone's benefit.</p></div></li>
 					<li><a href="http://www.cafepress.com/theflatearthsociety"><i class="fa fa-shopping-bag fa-fw"></i><span>Store</span></a><br>
-					<div id="link-description"><p>Shop for shirts, bags, and other official Flat Earth Society merchandise with zero profit markups.</p></div></li>
+					<div class="link-description" id="4"><p>Shop for shirts, bags, and other official Flat Earth Society merchandise with zero profit markups.</p></div></li>
 				</ul>
 			</div>
 		</div>

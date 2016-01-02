@@ -595,17 +595,20 @@ nav ul li a:active {
 /* Library: */
 #lib {
   float: left;
-  width: 892px;
+  width: 902px;
   padding: 0;
-  margin: 0 0 0 40px;
+  margin: 0 0 0 30px;
   display: inline;
 }
-#libwrap {
+#lib-wrap {
   position: relative;
   width: 952px;
-  margin: 0px auto 30px auto;
+  margin: 0px auto;
   text-align: left;
 }
+#lib p {
+    margin-left: 10px;
+  }
 #lib h2 {
   font: 32px 'Oswald';
   font-weight: 300;
@@ -623,14 +626,11 @@ nav ul li a:active {
 }
 @media (max-width: 991px) {
   #lib {
-    width: 100%;
+    width: calc(100% - 20px);
     margin: 0 10px;
   }
-  #libwrap {
+  #lib-wrap {
     width: 100%;
-  }
-  #lib p {
-    margin-left: 10px;
   }
 }
 

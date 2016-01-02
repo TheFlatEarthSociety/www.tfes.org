@@ -1,5 +1,6 @@
 <?php include("header.php");?>
   <div id="content">
+	<div id="lib-wrap">
     <div id="lib">
       <h2 class="post">Terms and conditions for reuse of website content</h2>
 
@@ -26,5 +27,6 @@
         licence.
       </p>
     </div>
+	</div>
   </div>
 <?php include("footer.php");?>

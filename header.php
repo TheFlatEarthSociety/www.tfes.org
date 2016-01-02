@@ -39,10 +39,11 @@
 
 <div id="wrap">
 	<div id="main-col">
-		<video id="bg-vid" width=1100 height=550 poster="./images/header.png" autoplay loop muted>
+		<video id="bg-vid" poster="./images/header.png" autoplay loop muted>
 			<source src="./videos/header.mp4" type="video/mp4">
 			<source src="./videos/header.webm" type="video/webm">
 		</video>
+		<img src="./images/overlay.png" id="bg-overlay">
 		<nav>
 			<ul>
 				<li><a href="https://www.facebook.com/FlatSoc" rel="publisher"><i class="fa fa-facebook-official fa-2x fa-fw"></i></a></li>

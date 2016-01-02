@@ -43,7 +43,7 @@
 			<source src="./videos/header.mp4" type="video/mp4">
 			<source src="./videos/header.webm" type="video/webm">
 		</video>
-		<img src="./images/overlay.png" id="bg-overlay">
+		<img src="./images/overlay.png" id="bg-overlay" alt="">
 		<nav>
 			<ul>
 				<li><a href="https://www.facebook.com/FlatSoc" rel="publisher"><i class="fa fa-facebook-official fa-2x fa-fw"></i></a></li>
@@ -62,6 +62,18 @@
 				<a href="//www.blanko.tfes.org/"><img id="logo_txt" src="./images/logo_text.png" alt="The Flat Earth Society"></a>
 			</header>
 			<div id="nav-below">
+				<ul>
+					<li><a href="//forum.tfes.org/"><i class="fa fa-comments fa-fw"></i><span>Forum</span><br>
+					<p>Engage in conversation with our community about Flat Earth theory - or anything else you want!</p></a></li>
+					<li><a href="//wiki.tfes.org/"><i class="fa fa-graduation-cap fa-fw"></i><span>Wiki</span><br>
+					<p>An information repository for all things related to Flat Earth theory. A great entry point for newcomers.</p></a></li>
+					<li><a href="//www.blanko.tfes.org/library.php"><i class="fa fa-book fa-fw"></i><span>Library</span><br>
+					<p>A comprehensive collection of Flat Earth literature, consolidated in one place for everyone's benefit.</p></a></li>
+					<li><a href="http://www.cafepress.com/theflatearthsociety"><i class="fa fa-shopping-bag fa-fw"></i><span>Store</span><br>
+					<p>Shop for shirts, bags, and other official Flat Earth Society merchandise with zero profit markups.</p></a></li>
+				</ul>
+			</div>
+			<div id="nav-below-mobile">
 				<ul>
 					<li><a href="//forum.tfes.org/"><i class="fa fa-comments fa-fw"></i><span>Forum</span></a><br>
 					<div class="link-description" id="1"><p>Engage in conversation with our community about Flat Earth theory - or anything else you want!</p></div></li>

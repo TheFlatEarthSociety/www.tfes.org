@@ -299,7 +299,7 @@ input#button:hover {
 }
 #main-col-inner {
   position: relative; 
-  z-index: 1;
+  z-index: 4;
   max-width: 952px;
   margin: 0 auto;
 }
@@ -325,6 +325,8 @@ input#button:hover {
 }
 #nav-below ul li a {
   color: #fff;
+}
+#nav-below ul li a i, #nav-below ul li a span {
   font-size: 21px;
 }
 #nav-below ul li a:hover {
@@ -341,17 +343,31 @@ input#button:hover {
   padding-left: 4px;
   padding-right: 4px;
 }
+@media (min-width: 501px) {
+  #nav-below-mobile {
+    display: none;
+  }
+}
 @media (max-width: 991px) {
   #nav-below ul li {
     width: 40%;
   }
-  
 }
 @media (max-width: 500px) {
   #nav-below {
+    display: none;
+  }
+  #nav-below-mobile {
     padding: 1px 0px;
   }
-  #nav-below ul li {
+  #nav-below-mobile ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0;
+    padding: 0;
+  }
+  #nav-below-mobile ul li {
     background-color: #fff;
     margin: 3px 20px;
     padding: 15px 15px 10px 15px;
@@ -361,17 +377,31 @@ input#button:hover {
     width: 100%;
     color: #4c798e;
   }
-  #nav-below ul li a i {
-    color: #4c798e;
+  #nav-below-mobile ul li a:hover {
+    text-decoration: none;
+    color: #a0b8c6;
   }
-  #nav-below ul li a span {
+  #nav-below-mobile ul li a i {
+    color: #4c798e;
+    font-size: 21px;
+  }
+  #nav-below-mobile ul li a span {
+    font-family: 'Lobster Two';
+    font-size: 21px;
+    margin-left: 10px;
     color: #666;
   }
-  #nav-below ul li p {
+  #nav-below-mobile ul li a span:hover {
+    text-decoration: none;
+    color: #a0b8c6;
+  }
+  #nav-below-mobile ul li p {
     display: none;
     position: absolute;
     background-color: #fff;
     color: #333;
+    font-weight: 600;
+    line-height: 16px;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4);
@@ -379,7 +409,7 @@ input#button:hover {
     margin-top: -23px;
     width: 50%;
   }
-  #nav-below ul li .link-description::after {
+  #nav-below-mobile ul li .link-description::after {
     content: "";
     font-family: "FontAwesome";
     font-size: 21px;
@@ -389,10 +419,10 @@ input#button:hover {
     right: 35px;
     margin-top: -14px;
   }
-  #nav-below ul li .link-description:hover::after {
+  #nav-below-mobile ul li .link-description:hover::after {
     color: #a0b8c6;
   }
-  #nav-below ul li .link-description:hover p {
+  #nav-below-mobile ul li .link-description:hover p {
     display: inline;
   }
 }
@@ -487,7 +517,7 @@ nav {
 }
 nav ul {
   position: relative;
-  z-index: 999;
+  z-index: 3;
   float: left;
   list-style: none;
   margin: 2px 0 0 0;

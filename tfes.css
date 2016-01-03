@@ -447,7 +447,7 @@ input#button:hover {
 }
 @media (max-width: 500px) {
   #content {
-    padding-top: 75px;
+    padding-top: 85px;
   }
 }
 #header {
@@ -557,6 +557,33 @@ nav ul li a:active {
   nav ul li a:visited {
     color: #4c798e;
     padding: 10px;
+  }
+}
+
+/* Mobile status notice: */
+
+#statusnotice-mobile {
+  border-bottom: 1px dotted #aaa;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+}
+#statusnotice-mobile a {
+  font-family: "Oswald", sans-serif;
+  color: #666;
+  font-size: 16px;
+}
+#statusnotice-mobile a:hover {
+  color: #000;
+  text-decoration: none;
+}
+#statusnotice-mobile span {
+  font-family: "Lobster Two", sans-serif;
+  font-size: 16px;
+  color: #4c798e;
+}
+@media (min-width: 992px) {
+  #statusnotice-mobile {
+    display: none;
   }
 }
 

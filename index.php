@@ -11,6 +11,18 @@
 <div id="content">
   <div id="content-columns">
 	<div id="main">
+		<div id="statusnotice-mobile">
+			<span>Status notice</span><br>
+				<?php
+					$notices = ssi_boardNews($board = 22, $limit = 1, $start, $length, $output_method="abc");
+				
+				foreach($notices as $notice)
+				{
+					echo '<a href="' . $notice['href'] . '">' . $notice['subject'] . '</a>';
+				}
+				?>
+		</div>	
+	
 <?php
       $news = ssi_boardNews($board = 3, $limit = 5, $start, $length, $output_method="abc");
       foreach($news as $post)

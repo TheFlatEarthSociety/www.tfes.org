@@ -58,8 +58,8 @@
 		</nav>
 		<div id="main-col-inner">
 			<header id="header">
-				<a href="//www.blanko.tfes.org/"><img id="logo_img" src="./images/logo_white.png" alt=""></a>
-				<a href="//www.blanko.tfes.org/"><img id="logo_txt" src="./images/logo_text.png" alt="The Flat Earth Society"></a>
+				<a href="/"><img id="logo_img" src="./images/logo_white.png" alt=""></a>
+				<a href="/"><img id="logo_txt" src="./images/logo_text.png" alt="The Flat Earth Society"></a>
 			</header>
 			<div id="nav-below">
 				<ul>
@@ -67,7 +67,7 @@
 					<p>Engage in conversation with our community about Flat Earth theory - or anything else you want!</p></a></li>
 					<li><a href="//wiki.tfes.org/"><i class="fa fa-graduation-cap fa-fw"></i><span>Wiki</span><br>
 					<p>An information repository for all things related to Flat Earth theory. A great entry point for newcomers.</p></a></li>
-					<li><a href="//www.blanko.tfes.org/library.php"><i class="fa fa-book fa-fw"></i><span>Library</span><br>
+					<li><a href="/library.php"><i class="fa fa-book fa-fw"></i><span>Library</span><br>
 					<p>A comprehensive collection of Flat Earth literature, consolidated in one place for everyone's benefit.</p></a></li>
 					<li><a href="http://www.cafepress.com/theflatearthsociety"><i class="fa fa-shopping-bag fa-fw"></i><span>Store</span><br>
 					<p>Shop for shirts, bags, and other official Flat Earth Society merchandise with zero profit markups.</p></a></li>
@@ -79,7 +79,7 @@
 					<div class="link-description" id="1"><p>Engage in conversation with our community about Flat Earth theory - or anything else you want!</p></div></li>
 					<li><a href="//wiki.tfes.org/"><i class="fa fa-graduation-cap fa-fw"></i><span>Wiki</span></a><br>
 					<div class="link-description" id="2"><p>An information repository for all things related to Flat Earth theory. A great entry point for newcomers.</p></div></li>
-					<li><a href="//www.blanko.tfes.org/library.php"><i class="fa fa-book fa-fw"></i><span>Library</span></a><br>
+					<li><a href="/library.php"><i class="fa fa-book fa-fw"></i><span>Library</span></a><br>
 					<div class="link-description" id="3"><p>A comprehensive collection of Flat Earth literature, consolidated in one place for everyone's benefit.</p></div></li>
 					<li><a href="http://www.cafepress.com/theflatearthsociety"><i class="fa fa-shopping-bag fa-fw"></i><span>Store</span></a><br>
 					<div class="link-description" id="4"><p>Shop for shirts, bags, and other official Flat Earth Society merchandise with zero profit markups.</p></div></li>

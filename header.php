@@ -6,7 +6,7 @@
   <meta name="description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="keywords" content="flat earth theory, flat earth society, the flat earth society, flat, earth, society, rowbotham, zetetic, zeteticism, flatearth, cosmology, shape">
-  <link rel="stylesheet" href="tfes.css" type="text/css">
+  <link rel="stylesheet" href="tfes2.css" type="text/css">
   <link rel="stylesheet" href="./font-awesome-4.5.0/css/font-awesome.min.css">
 
   <meta property="og:site_name" content="The Flat Earth Society">

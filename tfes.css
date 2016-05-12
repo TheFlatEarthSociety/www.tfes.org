@@ -108,6 +108,7 @@ strong {
   font-weight: 600;
 }
 article hr {
+  margin: 3px 0;
   border-bottom: none;
   border-right: none;
   border-left: none;

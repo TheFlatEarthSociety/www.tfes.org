@@ -1,5 +1,6 @@
 <?php include("header.php");?>
   <div id="content">
+	<div id="lib-wrap">
     <div id="lib">
 
 <h2 class="post"><a href="library.php" rel="bookmark">The Flat Earth Library</a></h2>
@@ -121,6 +122,7 @@ Its purpose is to preserve and immortalise the history of Flat Earth Theory for 
   <li><a href="http://library.tfes.org/library/daniel_shenton_flat_earth_essay.pdf">"In Defense of the Flat Earth", Daniel Shenton, 2009</a> [PDF]</li>
 </ul>
     </div>
+	</div>
 
   </div>
 <?php include("footer.php"); ?>

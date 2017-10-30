@@ -1,3 +1,4 @@
+<?php $descr = "Terms and conditions for reuse of Flat Earth Society content" ?>
 <?php include("header.php");?>
   <div id="content">
 	<div id="lib-wrap">

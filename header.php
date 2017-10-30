@@ -2,16 +2,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <?php
+    //Do we have a meta description we'd like to use?
+    //If not, fall back to a generic description!
+    if (empty($descr))
+    {
+      $descr = "This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.";
+    }
+  ?>
+
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
+  <meta name="description" content="<? echo $descr ?>">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="keywords" content="flat earth theory, flat earth society, the flat earth society, flat, earth, society, rowbotham, zetetic, zeteticism, flatearth, cosmology, shape">
   <link rel="stylesheet" href="tfes3.css" type="text/css">
   <link rel="stylesheet" href="./font-awesome-4.5.0/css/font-awesome.min.css">
-
   <meta property="og:site_name" content="The Flat Earth Society">
   <meta property="og:title" content="The Flat Earth Society">
-  <meta property="og:description" content="This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.">
+  <meta property="og:description" content="<? echo $descr ?>">
   <meta property="og:image" content="//www.tfes.org/images/logo.png">
   <meta property="og:url" content="//www.tfes.org/">
   <meta property="og:locale" content="en_GB">

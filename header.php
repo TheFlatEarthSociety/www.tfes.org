@@ -20,9 +20,14 @@
   <meta property="og:site_name" content="The Flat Earth Society">
   <meta property="og:title" content="The Flat Earth Society">
   <meta property="og:description" content="<? echo $descr ?>">
-  <meta property="og:image" content="//www.tfes.org/images/logo.png">
+  <meta property="og:image" content="//www.tfes.org/images/fes_banner.png">
   <meta property="og:url" content="//www.tfes.org/">
   <meta property="og:locale" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@FlatEarthOrg">
+  <meta name="twitter:title" content="The Flat Earth Society">
+  <meta name="twitter:description" content="<? echo $descr ?>">
+  <meta name="twitter:image" content="//www.tfes.org/images/fes_banner.png">
   <meta name="application-name" content="The Flat Earth Society">
   <meta name="msapplication-TileColor" content="#455a9e">
   <meta name="msapplication-square70x70logo" content="images/logo_70x70.png">

@@ -20,14 +20,14 @@
   <meta property="og:site_name" content="The Flat Earth Society">
   <meta property="og:title" content="The Flat Earth Society">
   <meta property="og:description" content="<?php echo $descr ?>">
-  <meta property="og:image" content="//www.tfes.org/images/fes_banner.png">
-  <meta property="og:url" content="//www.tfes.org/">
+  <meta property="og:image" content="https://www.tfes.org/images/fes_banner.png">
+  <meta property="og:url" content="https://www.tfes.org/">
   <meta property="og:locale" content="en_GB">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@FlatEarthOrg">
   <meta name="twitter:title" content="The Flat Earth Society">
   <meta name="twitter:description" content="<?php echo $descr ?>">
-  <meta name="twitter:image" content="//www.tfes.org/images/fes_banner.png">
+  <meta name="twitter:image" content="https://www.tfes.org/images/fes_banner.png">
   <meta name="application-name" content="The Flat Earth Society">
   <meta name="msapplication-TileColor" content="#455a9e">
   <meta name="msapplication-square70x70logo" content="images/logo_70x70.png">
@@ -61,7 +61,7 @@
 			<ul>
 				<li><a href="https://www.facebook.com/FlatSoc" rel="publisher"><i class="fa fa-facebook-official fa-2x fa-fw"></i></a></li>
 				<li><a href="https://twitter.com/FlatEarthOrg" rel="publisher"><i class="fa fa-twitter fa-2x fa-fw"></i></a></li>
-				<li><a href="http://www.reddit.com/r/flatearthsociety/"><i class="fa fa-reddit-alien fa-2x fa-fw"></i></a></li>
+				<li><a href="https://www.reddit.com/r/flatearthsociety/"><i class="fa fa-reddit-alien fa-2x fa-fw"></i></a></li>
 				<li><a href="https://plus.google.com/+TfesOrgOfficial" rel="publisher"><i class="fa fa-google-plus fa-2x fa-fw"></i></a></li>
 			</ul>
 			<form id="searchbar" action="<?php echo ssi_quickSearch("wow") . "2" ?>" style="text-align:center" method="post">

@@ -490,6 +490,12 @@ input#button:hover {
   width: 200px;
   height: 100px;
   image-rendering: -webkit-optimize-contrast;
+  color: #FFFFFF;
+  font-family: "Lobster Two", sans-serif;
+  font-size: 38px;
+  line-height: 50px;
+  font-weight: initial;
+  text-align: center;
 }
 
 @media (max-width: 500px) {
@@ -503,6 +509,8 @@ input#button:hover {
     top: 15px;
     width: 120px;
     height: 60px;
+    font-size: 25px;
+    line-height: 20px;
   }
 }
 

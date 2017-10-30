@@ -59,7 +59,7 @@
 		<div id="main-col-inner">
 			<header id="header">
 				<a href="/"><img id="logo_img" src="./images/logo_white.png" alt=""></a>
-				<a href="/"><img id="logo_txt" src="./images/logo_text.png" alt="The Flat Earth Society"></a>
+				<h1><a href="/"><img id="logo_txt" src="./images/logo_text.png" alt="The Flat Earth Society" title="The Flat Earth Society"></a></h1>
 			</header>
 			<div id="nav-below">
 				<ul>

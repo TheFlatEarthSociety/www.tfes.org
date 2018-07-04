@@ -18,7 +18,7 @@
             <li>Twitter Direct Message: <em><a href="https://twitter.com/FlatEarthOrg">@FlatEarthOrg</a></em></li>
             <li>Facebook Direct Message: <em><a href="https://www.facebook.com/FlatSoc">FlatSoc</a></em></li>
             <li>e-mail: <em><a href="mailto:contact@tfes.org">contact@tfes.org</a></em></li>
-            <li>Telephone: <em><a href="tel:+85281924608">+852 8192 4608</a></em></li>
+            <li>Telephone: <em><a href="tel:+18652776243">+1 (865) 277-6243</a></em></li>
         </ul>
       </p>
 

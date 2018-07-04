@@ -1,4 +1,5 @@
 <?php $descr = "Terms and conditions for reuse of Flat Earth Society content" ?>
+<?php $canon = "https://www.tfes.org/copying.php" ?>
 <?php include("header.php");?>
   <div id="content">
 	<div id="lib-wrap">

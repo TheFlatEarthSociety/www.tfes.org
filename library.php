@@ -1,4 +1,5 @@
 <?php $descr = "The Flat Earth Library, a collection of literature, newsletters and pamphlets collected by the Flat Earth Society" ?>
+<?php $canon = "https://www.tfes.org/library.php" ?>
 <?php include("header.php");?>
   <div id="content">
 	<div id="lib-wrap">

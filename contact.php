@@ -1,4 +1,5 @@
 <?php $descr = "Contact the Flat Earth Society" ?>
+<?php $canon = "https://www.tfes.org/contact.php" ?>
 <?php include("header.php");?>
   <div id="content">
 	<div id="lib-wrap">

@@ -9,6 +9,11 @@
     {
       $descr = "This is the home of the world-famous Flat Earth Society, a place for free thinkers and the intellectual exchange of ideas.";
     }
+    //Ditto for canonical opengraph URL
+    if (empty($canon))
+    {
+      $canon = "https://www.tfes.org/";
+    }
   ?>
 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -22,7 +27,7 @@
   <meta property="og:title" content="The Flat Earth Society">
   <meta property="og:description" content="<?php echo $descr ?>">
   <meta property="og:image" content="https://www.tfes.org/images/fes_banner.png">
-  <meta property="og:url" content="https://www.tfes.org/">
+  <meta property="og:url" content="<?php echo $canon ?>">
   <meta property="og:locale" content="en_GB">
   <meta property="fb:app_id" content="916617788496217">
   <meta name="twitter:card" content="summary_large_image">

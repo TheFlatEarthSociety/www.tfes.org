@@ -42,6 +42,7 @@
   <meta name="msapplication-wide310x150logo" content="images/logo_310x150.png">
   <meta name="msapplication-square310x310logo" content="images/logo_310x310.png">
   <link rel="shortcut icon" href="/favicon.ico">
+  <meta name="theme-color" content="#4c798d">
   <title>The Flat Earth Society</title>
 </head>
 

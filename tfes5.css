@@ -617,7 +617,7 @@ nav ul li a:active {
   text-decoration: none;
 }
 #main ul li {
-  list-style-image: url(images/libbulet.png);
+  list-style-image: url(images/libbullet.png);
 }
 @media (max-width: 991px) {
   #main {

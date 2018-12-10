@@ -56,7 +56,8 @@
 		<div id="recent">
 			<h3>Recent forum discussions</h3>
 			<?php
-				$topics = ssi_recentTopics($num_recent = 5, $exclude_boards = null, $include_boards = [5, 6, 7, 8], $output_method="not echo plz");
+				//Boards: 5 - FEC, 7 - FET, 8 - FEM, 19 - FEP, 21 - ENaG workshop, 23 - FEI
+				$topics = ssi_recentTopics($num_recent = 5, $exclude_boards = null, $include_boards = [5, 7, 8, 19, 21, 23], $output_method="not echo plz");
 			?>
 			<ul class="sidemenu">
 			<?php

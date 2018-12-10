@@ -24,7 +24,7 @@
 		</div>	
 	
 <?php
-      $news = ssi_boardNews($board = 3, $limit = 5, $start, $length, $output_method="abc");
+      $news = ssi_boardNews($board = 3, $limit = 8, $start, $length, $output_method="abc");
       foreach($news as $post)
       {
             echo '<article>
@@ -57,7 +57,7 @@
 			<h3>Recent forum discussions</h3>
 			<?php
 				//Boards: 5 - FEC, 7 - FET, 8 - FEM, 19 - FEP, 21 - ENaG workshop, 23 - FEI
-				$topics = ssi_recentTopics($num_recent = 5, $exclude_boards = null, $include_boards = [5, 7, 8, 19, 21, 23], $output_method="not echo plz");
+				$topics = ssi_recentTopics($num_recent = 7, $exclude_boards = null, $include_boards = [5, 7, 8, 19, 21, 23], $output_method="not echo plz");
 			?>
 			<ul class="sidemenu">
 			<?php

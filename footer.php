@@ -1,7 +1,7 @@
   <footer id="footer">
       <p>
-        Copyright &copy; 2013-<?php echo date("Y"); ?> The Flat Earth Society, <a href="copying.php">with exceptions</a> |
-        Some content available under a <a href="copying.php">free licence</a><br />
+        Copyright &copy; 2013-<?php echo date("Y"); ?> The Flat Earth Society, <a href="copying.php" rel="license">with exceptions</a> |
+        Some content available under a <a href="copying.php" rel="license">free licence</a><br />
         Questions? Media inquiries? <a href="contact.php">Contact us!</a>
       </p>
 

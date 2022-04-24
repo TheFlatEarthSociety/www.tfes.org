@@ -70,8 +70,6 @@
 			<ul>
 				<li><a href="https://www.facebook.com/FlatSoc" rel="publisher"><i class="fa fa-facebook-official fa-2x fa-fw"></i></a></li>
 				<li><a href="https://twitter.com/FlatEarthOrg" rel="publisher"><i class="fa fa-twitter fa-2x fa-fw"></i></a></li>
-				<li><a href="https://www.reddit.com/r/flatearthsociety/"><i class="fa fa-reddit-alien fa-2x fa-fw"></i></a></li>
-				<li><a href="https://plus.google.com/+TfesOrgOfficial" rel="publisher"><i class="fa fa-google-plus fa-2x fa-fw"></i></a></li>
 			</ul>
 			<form id="searchbar" action="<?php echo ssi_quickSearch("wow") . "2" ?>" style="text-align:center" method="post">
 				<input id="bar" name="search" type="search" placeholder="Search the forum..." style="width:200px">

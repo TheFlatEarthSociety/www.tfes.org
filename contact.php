@@ -15,15 +15,13 @@
 
       <p>
         <ul>
+            <li>Forum: <em><a href="https://forum.tfes.org/">Flat Earth Society Forum</a></em></li>
             <li>Twitter Direct Message: <em><a href="https://twitter.com/FlatEarthOrg">@FlatEarthOrg</a></em></li>
             <li>Facebook Direct Message: <em><a href="https://www.facebook.com/FlatSoc">FlatSoc</a></em></li>
-            <li>e-mail: <em><a href="mailto:contact@tfes.org">contact@tfes.org</a></em></li>
-            <li>Telephone: <em><a href="tel:+18652776243">+1 (865) 277-6243</a></em></li>
         </ul>
       </p>
 
       <p>
-        Please note that due to the sheer volume of communication we receive, electronic messages are preferred.
         We look forward to hearing from you!
       </p>
     </div>
